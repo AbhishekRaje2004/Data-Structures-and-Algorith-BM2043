@@ -1,2 +1,2 @@
-# Data-Structures-and-Algorith-BM2043
+# Data-Structures-and-Algorithm-BM2043
 Solutions to Assignment
